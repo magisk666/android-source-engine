@@ -1,2 +1,3 @@
 # auto---biuld-srceng
-Test auto build apk
+测试自动构建apk
+This is a test
